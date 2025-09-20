@@ -1,6 +1,6 @@
 ﻿namespace Tyuiu.MkhitaryanSG.Sprint0.Task2.V0.Lib
 {
-    public class DataServise
+    public class DataService
     {
         public static string GetMessage(string name)
         {
