@@ -10,7 +10,7 @@ namespace Tyuiu.MkhitaryanSG.Sprint0.Task2.V0.Test
             var name = "София";
             var res = DataService.GetMessage(name);
 
-            Assert.AreEqual("Привет София", res);
+            Assert.AreEqual("Привет, София", res);
 
         }
     }
